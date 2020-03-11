@@ -1,0 +1,24 @@
+.tile {
+    display: inline-flex;
+}
+
+.rock {
+    background-image: url('../assets/rock.png');
+    background-size: cover;
+}
+.tree {
+    background-image: url('../assets/tree.png');
+    background-size: cover;
+}
+.grass {
+    /* background-image: url('../assets/grass.jpg');
+    background-size: cover; */
+    background-color: #2ab02a;
+}
+.chest {
+    background-image: url('../assets/chest.png');
+    background-size: cover;  
+}
+.row {
+    display: flex;
+}
